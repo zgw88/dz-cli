@@ -1,5 +1,5 @@
 {
-  "name": "dz-cli",
+  "name": "@dzgw/dz-cli",
   "version": "1.0.0",
   "description": "dz-cli",
   "main": "index.js",
